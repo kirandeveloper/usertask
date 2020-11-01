@@ -1,0 +1,103 @@
+.App-header {
+  background-color: #e0e0e0;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+ul.App-header
+{
+  margin: 0px 0px 10px 0px;
+  padding: 0px;
+  text-align: left;
+}
+ul.App-header li
+{
+  list-style-type: none;
+  display: inline;
+  padding: 5px;
+  line-height: 50px;
+  color: #939292;
+}
+ul.App-header li a
+{
+  text-decoration: none;
+  color: #939292;
+  font-size: 14px;
+  line-height: 50px;
+  padding: 15px 30px;
+}
+ul.App-header li a:hover
+{
+  text-decoration: none;
+  color: #fff;
+  background-color: #080808;
+  font-size: 14px;
+  line-height: 50px;
+  padding: 15px 30px;
+}
+.App-link {
+  color: #61dafb;
+}
+
+.textleft
+{
+  text-align: left;
+}
+.pl10
+{
+  padding-left: 10px;
+}
+
+input , input:hover
+{
+  border: 0px;
+  margin: 20px 10px;
+}
+.taskmain ol li
+{
+  text-align: left;
+  padding: 5px;
+  width: 50%;
+}
+button,.btn
+{
+  width: 13%;
+  border: 1px solid #939292;
+  background-color: #fff;
+  border-radius: 5px;
+  margin: 5px;
+  padding: 5px 10px;
+  font-size: 14px;
+}
+select
+{
+  width: 13%;
+  border: 1px solid #939292;
+  background-color: #fff;
+  border-radius: 5px;
+  margin: 5px;
+  padding: 5px 10px;
+  font-size: 14px;
+}
+.btndanger
+{
+  background-color: #d9544f;
+  color: #fff;
+  border: 0px;
+}
+.btnblue
+{
+  border: 1px solid #0674d2;
+  background-color: #0674d2;
+  color: #fff;
+  border-radius: 5px;
+  margin: 5px;
+  padding: 5px 10px;
+  font-size: 14px;
+}
+
+.addtaskmain
+{
+  float: left;
+  width: 100%;
+  text-align: left;
+}
